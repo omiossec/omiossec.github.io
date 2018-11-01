@@ -2,15 +2,14 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Olivier Miossec 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+![Olivier Miossec](https://github.com/omiossec.png)
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Je suis dans l'industrie du web depuis plus de 20 ans. J'ai donc connus la naissance de Google, de Wikipedia et la mort de Yahoo. J'ai travaillé sur de plaformes d'hébergement des plus connues au plus simple.
+Je m'interesse plus particuliairement à l'automatisation et au DevOps. 
+Je suis spécialisé sur les Os Windows (oui dans le monde de l'hébergement), PowerShell mais aussi Python, Les Cloud, la virtualisation. 
+J'étais, aussi, développeur sur .net et Java.
