@@ -17,5 +17,6 @@ Je m'interesse plus particuliairement à l'automatisation et au DevOps.
 Je suis spécialisé sur les Os Windows (oui dans le monde de l'hébergement), PowerShell mais aussi Python, Les Cloud, la virtualisation. 
 J'étais, aussi, développeur sur .net et Java.
 
-* [Twitter](https://twitter.com/stephanevg)
-* [Github](https://github.com/stephanevg)
+* [Twitter](https://twitter.com/omiossec_med)
+* [Github](https://github.com/omiossec)
+* [LinkedIn](https://www.linkedin.com/in/omiossec/)
