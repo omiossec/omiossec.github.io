@@ -17,7 +17,7 @@ baseurl: ""
 title: Olivier Miossec
 
 # Short description of your site
-Blog Olivier Miossec, Windows Server, Virtualisation, Automation, PowerShell, Azure et autre
+description: "Blog d'Olivier Miossec, Windows, PowerShell, Azure, Automation et autre"
 
 # --- Navigation bar options --- #
 
