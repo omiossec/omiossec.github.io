@@ -18,6 +18,9 @@ Je m'interesse plus particuliairement à l'automatisation et au DevOps.
 
 Je suis spécialisé sur les Os Windows (oui dans le monde de l'hébergement), PowerShell mais aussi Python, Les Cloud, la virtualisation. 
 
+Je suis l'un des co-animateur du [Paris PowerShell and DevOps Meetup](https://www.meetup.com/fr-FR/PowerShell-Paris/)
+Et aussi un speaker sur plusieurs conférences
+
 J'étais, aussi, développeur sur .net et Java.
 
 * [Twitter](https://twitter.com/omiossec_med)
