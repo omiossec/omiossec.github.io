@@ -28,14 +28,14 @@ Pour une autorité de certification basée sur Microsoft, voici la procédure po
  Il faut avoir un accès au à l’autorité de certification de l’entreprise.
 
  * Ouvrir la console de l'autorité de certification et faire un clic droit sur "Certificate Template" 
- ![image-center](/img/cs/2018/CertTemplate.png)
+ ![image-center](/img/cs01/2018/CertTemplate.png)
  * Cliquer sur "Manage" pour ouvrir le gestionnaire de template
  *  Faire un clic droit sur "Code Signing" puis "Duplicate template". Dans la nouvelle fenêtre sélectionnez l’onglet General
  * Entrer un nom, sélectionner une période de validé (1 an par défaut)
-  ![image-center](/img\cs\2018\templateProp.png)
+  ![image-center](/img\cs01\2018\templateProp.png)
   Vous pouvez modifier d’autres propriétés comme la durée de validité et la période renouvellement.
  * Dans "Security", limiter les utilisateurs (ou les groupe) qui peuvent utiliser la signaature
- ![image-center](/img\cs\2018\TemplateRight.png)
+ ![image-center](/img\cs01\2018\TemplateRight.png)
  * De retour dans la console de l’autorité de certification, faire un clic droit sur "Certificate Template" et sélectionner New puis "Certificate Template to Issue".
  * Sélectionner le template et cliquer sur OK
  * Le template est disponible pour les utilisateurs
