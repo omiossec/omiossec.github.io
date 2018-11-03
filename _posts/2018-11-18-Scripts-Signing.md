@@ -28,7 +28,7 @@ Pour une autorité de certification basée sur Microsoft, voici la procédure po
  Il faut avoir un accès au à l’autorité de certification de l’entreprise.
 
  * Ouvrir la console de l'autorité de certification et faire un clic droit sur "Certificate Template" 
- ![image-center](/img\cs\2018\CertTemplate.png)
+ ![image-center](/img/cs/2018/CertTemplate.png)
  * Cliquer sur "Manage" pour ouvrir le gestionnaire de template
  *  Faire un clic droit sur "Code Signing" puis "Duplicate template". Dans la nouvelle fenêtre sélectionnez l’onglet General
  * Entrer un nom, sélectionner une période de validé (1 an par défaut)
