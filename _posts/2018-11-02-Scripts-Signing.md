@@ -2,6 +2,8 @@
 layout: post
 title: PowerShell et code Signing
 image: /img/hello_world.jpeg
+author: Olivier Miossec
+tags: [PowerShell, PKI, Code Signing]
 ---
 
 
