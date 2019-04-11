@@ -192,7 +192,7 @@ $MetaDataHeaders = @{"Metadata"="true"}
 $MetaDataServiceResult = Invoke-RestMethod -Method GET -uri "http://169.254.169.254/metadata/attested/document?api-version=2018-10-01" -Headers $MetaDataHeaders
 ```
 
-Le résultat retourné est une signature 
+Le résultat retourné est un objet contenant une signature 
 
 encoding  : pkcs7
 signature : MIILtgYJKoZIhvcNAQcCoIILpzCCC6MCAQExDzANBgkqhkiG9w0BAQsFADCB4wYJKoZIhvcNAQcBoIHVBIHSeyJub25jZSI6IjIwMTkwMzI5LTA2NTMxMyIsInBsYW4iOnsibmFtZSI6IiIsInByb2R1Y3QiOiIiLCJwdWJsaXNoZXIiOiIifSwidGltZVN0YW….
