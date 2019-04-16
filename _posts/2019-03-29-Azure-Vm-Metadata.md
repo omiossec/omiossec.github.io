@@ -3,7 +3,7 @@ layout: post
 title: Azure VM Metadata
 image: /img/hello_world.jpeg
 author: Olivier Miossec
-tags: [Azure, IaaS, DevOps]
+tags: [Azure, IaaS, DevOps, Automation]
 ---
 
 Comment peut-on facilement retrouver les infos d’une instance de VM lancé sur Azure ? Comment connaitre son IP Publique (elle change à chaque démarrage de l’instance si elle est dynamique), son ressource group, sa zone ou son ID ?
