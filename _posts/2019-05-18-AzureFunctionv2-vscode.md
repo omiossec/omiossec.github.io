@@ -50,6 +50,12 @@ On peut maintenant installer les outils Azure Functions Core (à noter le @2 pou
 ```javascript
 npm install -g azure-functions-core-tools@2
 ````
+edit @TylerLeonhardt 
+On peut aussi installer Azure Functions Core tools avec Chocolatey
+```powershell
+choco install azure-functions-core-tools
+````
+
 
 Azure Function v2 utilise PowerShell core et le module Azure Az, il faut installer ce dernier avec PowerShell Core 
 
