@@ -67,10 +67,18 @@ La définition de ces paramètres s’effectue dans le fichier de configuration 
   ] 
 } 
 ```
+Et le fichier run.ps1 correspondant.
+```powershell
+# Input bindings passed via param 
+param([byte[]] $TriggerBlob, [String[]] $InputBlob $TriggerMetadata) 
+
+# Output passed via Push-OutputBinding 
+Push-OutputBinding -name OutputBlob -value $SomeValue 
+```
 
 Chaque trigger et bindings peuvent avoir leur propres spécificités. Suivant la famille du déclencheur il faut installer une extension (Microsoft.Azure.WebJobs.Extensions.xxx). Cela est fait automatiquement lors de la création du trigger. 
 
-Passons-en revus les principaux, HTTP, Blob, Queue, table, Service Bus et EventGrid.
+Passons-en revus les principaux, HTTP, Queue, table, Blob  et EventGrid.
 
 ## HTTP
 
